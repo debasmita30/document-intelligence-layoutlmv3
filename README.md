@@ -1,4 +1,4 @@
-##Document Intelligence System using LayoutLMv3
+## Document Intelligence System using LayoutLMv3
 Overview
 
 This project builds an end-to-end document understanding system that extracts structured information from scanned documents and forms using a multimodal transformer model.
